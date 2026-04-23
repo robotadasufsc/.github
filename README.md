@@ -1,1 +1,1 @@
-# .github
+# Equipe de robótica móvel
