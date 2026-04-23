@@ -1,1 +1,0 @@
-# Equipe de robótica móvel
